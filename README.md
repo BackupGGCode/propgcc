@@ -1,4 +1,4 @@
-<h2>Propeller GCC</h2>
+#Propeller GCC
 A GCC port for the <a href="http://www.parallax.com/PropellerChips/tabid/833/Default.aspx" rel="nofollow">Parallax Propeller P8x32a Microcontroller</a>. 
 Please Visit <a href="http://www.parallax.com/propellergcc" rel="nofollow">Parallax PropellerGCC</a>.
 
